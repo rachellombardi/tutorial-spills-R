@@ -24,4 +24,4 @@ request_memory = 1GB
 request_disk = 1GB
 
 # Tell HTCondor to queue a job for each data file
-queue 
+queue 1
